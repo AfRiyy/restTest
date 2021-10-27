@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <label for="id">Id</label>
+        <input type="number" name="id" id="id" />
+
+        <label for="fullname">Full name</label>
+        <input type="text" name="fullname" id="fullname" />
+
+        <label for="city">City</label>
+        <input type="text" name="city" id="city" />
+
+        <label for="salary">Salary</label>
+        <input type="text" name="salary" id="salary" />
+        <button type="button" onclick="addToJson()">Submit</button>
+      </form>
+      <br>
+      <button id="deleteAllBtn" type="button" onclick="deleteAll()">Delete all</button>
+      <p id="putResult">Result element</p>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="data.js"></script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullname": "Nagy János",
+      "city": "Szolnok",
+      "salary": 8400000
+    },
+    {
+      "id": 2,
+      "fullname": "Páros Lajos",
+      "city": "Szeged",
+      "salary": 3430000
+    },
+    {
+      "id": 3,
+      "fullname": "Aranyos Enikő",
+      "city": "Szolnok",
+      "salary": 4245000
+    }
+  ],
+  "another":[
+    {"id": 3}
+  ],
+  "app":{
+    "appname":"test",
+    "version":"0.0.1",
+    "color":"dark"
+  }
+}

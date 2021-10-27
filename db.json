@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "fullname": "Páros Lajos",
+      "city": "Szeged",
+      "salary": 3430000
+    },
+    {
+      "id": 3,
+      "fullname": "Aranyos Enikő",
+      "city": "Szolnok",
+      "salary": 4245000
+    },
+    {
+      "id": 4,
+      "fullname": "Bárány Tamás",
+      "city": "Miskolc",
+      "salary": 2850000
+    },
+    {
+      "id": 6,
+      "fullname": "Bárány Tamás",
+      "city": "Miskolc",
+      "salary": 2850000
+    },
+    {
+      "id": "51",
+      "fullname": "Réka Béka",
+      "city": "Budapest",
+      "salary": "25000"
+    },
+    {
+      "id": "7",
+      "fullname": "Cserepes Virág",
+      "city": "Esztergomba",
+      "salary": "35000"
+    },
+    {
+      "id": "1",
+      "fullname": "Páratlan György",
+      "city": "Budapest",
+      "salary": "250000"
+    }
+  ]
+}
